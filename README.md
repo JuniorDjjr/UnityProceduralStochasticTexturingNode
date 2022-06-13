@@ -1,4 +1,4 @@
-# UnityProceduralStochasticTexturingNode
+# Unity Procedural Stochastic Texturing Node for Shader Graph
 Procedural stochastic texturing node for Unity's Shader Graph, to fix repeated tile patterns on tiled textures.  
 
 **For terrain: https://github.com/JuniorDjjr/Unity-Procedural-Stochastic-Texture-Terrain-Shader**  
